@@ -9,10 +9,10 @@
 </div>
 
 ### About Me
-- 🔭 Working on my personal portfolio with animations
-- 🌱 Learning React, TailwindCSS, and more
-- 📫 Email: your.email@example.com
-- 🔗 Portfolio: your-portfolio-link.com (add when ready)
+ Working on my personal portfolio with animations
+ Learning React, TailwindCSS, and more
+ Email: pandillavenkataprasad@gmail.com
+ Portfolio: https://myportfolio-pi-mauve-95.vercel.app/
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
